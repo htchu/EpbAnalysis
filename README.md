@@ -1,6 +1,6 @@
 Epb Analysis with AR Model and HHT
 ========
-Spliced Transcripts Alignment to the manuscript:
+Matlab programs and data to the manuscript:
 Analysis of Exercise-induced Periodic Breathing Using Autoregressive Model and Hilbert-Huang Transform
 © Hsueh-Ting Chu, 2017
 
